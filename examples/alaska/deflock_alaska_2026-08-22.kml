@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DeFlock ALPR Cameras -- Alaska (2026-08-22)</name>
+    <description>Source: OpenStreetMap (surveillance:type=ALPR), same data DeFlock.me displays. ODbL licensed -- see https://www.openstreetmap.org/copyright</description>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14104680403
+Manufacturer: Flock Safety
+Direction: 99
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.6317152,61.582646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14111567401
+Manufacturer: Axis Communications
+Direction: 346
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.1101955,61.6065349,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
