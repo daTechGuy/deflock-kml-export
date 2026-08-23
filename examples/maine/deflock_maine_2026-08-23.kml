@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DeFlock ALPR Cameras -- Maine (2026-08-23)</name>
+    <description>Source: OpenStreetMap (surveillance:type=ALPR), same data DeFlock.me displays. ODbL licensed -- see https://www.openstreetmap.org/copyright</description>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/10074126632</description>
+      <Point>
+        <coordinates>-70.6484887,43.1803721,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/10074126633</description>
+      <Point>
+        <coordinates>-70.6488217,43.1801251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>York Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12958572690
+Operator: York Police
+Manufacturer: Flock Safety
+Direction: 70
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.6616831,43.1552555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>York Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12958624152
+Operator: York Police
+Manufacturer: Flock Safety
+Direction: 270
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.661632,43.1556232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>York Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12958734939
+Operator: York Police
+Manufacturer: Flock Safety
+Direction: 200
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.6592923,43.1545498,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>York Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12958744777
+Operator: York Police
+Manufacturer: Flock Safety
+Direction: 10
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.6585182,43.154649,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13040341399
+Manufacturer: Flock Safety
+Direction: 30
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.6105039,43.1783959,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Portland Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13202695190
+Operator: South Portland Police
+Manufacturer: Flock Safety
+Direction: 359
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.3395149,43.6321361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Portland Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13205017697
+Operator: South Portland Police
+Manufacturer: Flock Safety
+Direction: 100
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.3132792,43.632681,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13250437473
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 65
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2180113,44.0913961,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13250462678
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 145
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2148816,44.0976383,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auburn Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13250462854
+Operator: Auburn Police
+Manufacturer: Flock Safety
+Direction: 120
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2200976,44.1187995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13250468124
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 315
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2123548,44.0890149,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13250476819
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 50
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2190582,44.0979794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13250489904
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 200
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2125166,44.0998113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auburn Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13300670381
+Operator: Auburn Police
+Manufacturer: Flock Safety
+Direction: 90
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2235468,44.0971659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Portland Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13322788001
+Operator: South Portland Police
+Manufacturer: Flock Safety
+Direction: 208
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2919936,43.6302685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Portland Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13322788701
+Operator: South Portland Police
+Manufacturer: Flock Safety
+Direction: 25
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2920256,43.6301519,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13353381503
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 140
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2110869,44.0966165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auburn Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13354015811
+Operator: Auburn Police
+Manufacturer: Flock Safety
+Direction: 20
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2227107,44.0874458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13354043826
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 350
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2108625,44.0963173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portland Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13360279301
+Operator: Portland Police
+Manufacturer: Flock Safety
+Direction: 220
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.3269636,43.6481701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13391032631
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 200
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2058362,44.1002415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13458413401
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 276
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2000522,44.100553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Falmouth Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13458414201
+Operator: Falmouth Police
+Manufacturer: Flock Safety
+Direction: 143
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2962997,43.730808,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Falmouth Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13459409357
+Operator: Falmouth Police
+Manufacturer: Flock Safety
+Direction: 340
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2963155,43.7331228,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13462432101
+Manufacturer: Motorola Solutions
+Direction: 261
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.4589888,43.5223678,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maine National Guard ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13463478802
+Operator: Maine National Guard
+Manufacturer: Flock Safety
+Direction: 348
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-69.796435,44.3497503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maine National Guard ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13463479401
+Operator: Maine National Guard
+Manufacturer: Flock Safety
+Direction: 160
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-69.7963609,44.349766,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auburn Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13479653901
+Operator: Auburn Police
+Manufacturer: Flock Safety
+Direction: 289
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2655535,44.036186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auburn Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13483896501
+Operator: Auburn Police
+Manufacturer: Flock Safety
+Direction: 20
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2651449,44.0361574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maine DOT ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13515636102
+Operator: Maine DOT
+Manufacturer: Flock Safety
+Direction: 13
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.3306705,44.3688116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13527407114
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 165
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.165323,44.1012608,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Portland Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13532933301
+Operator: South Portland Police
+Manufacturer: Flock Safety
+Direction: 274
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.3140147,43.6334724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13578405011
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 310
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2116631,44.096179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Portland Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13625453601
+Operator: South Portland Police
+Manufacturer: Flock Safety
+Direction: 319
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.3297348,43.6448695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangor Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13685125401
+Operator: Bangor Police
+Manufacturer: Flock Safety
+Direction: 201;359
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7766731,44.7914753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmington Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13704415001
+Operator: Farmington Police
+Manufacturer: Flock Safety
+Direction: 318
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.1512782,44.6706449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangor Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13707087201
+Operator: Bangor Police
+Manufacturer: Flock Safety
+Direction: 134
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7416878,44.8371346,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangor Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13707089101
+Operator: Bangor Police
+Manufacturer: Flock Safety
+Direction: 215
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7459227,44.8329853,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangor Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13707089203
+Operator: Bangor Police
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7659481,44.80002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veazie Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13707090001
+Operator: Veazie Police
+Manufacturer: Leonardo
+Direction: 211
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7110505,44.8335228,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13819488180
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 260
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2056191,44.0974055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13821937901
+Manufacturer: Flock Safety
+Direction: 236
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.3500791,43.6084674,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Falmouth Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13828543201
+Operator: Falmouth Police
+Manufacturer: Flock Safety
+Direction: 199
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2317736,43.7255096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Falmouth Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13828548501
+Operator: Falmouth Police
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2314553,43.7260401,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auburn Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13884151987
+Operator: Auburn Police
+Manufacturer: Flock Safety
+Direction: 330
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2247169,44.1277329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldo County Sheriff ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13885903101
+Operator: Waldo County Sheriff
+Manufacturer: Leonardo
+Direction: 50;167
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-69.3224817,44.6237134,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brewer Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13962883306
+Operator: Brewer Police
+Manufacturer: Axon Enterprise
+Direction: 145
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7140373,44.7682767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brewer Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13962883307
+Operator: Brewer Police
+Manufacturer: Leonardo
+Direction: 260;175;140
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7140388,44.7682762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brewer Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13976395801
+Operator: Brewer Police
+Manufacturer: Flock Safety
+Direction: 159
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7670176,44.7954735,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14003436142
+Operator: Lewiston Police
+Manufacturer: Flock Safety
+Direction: 70
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2132045,44.0950133,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14029694981
+Manufacturer: Flock Safety
+Direction: 270
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.2074162,44.0992297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14055446001
+Manufacturer: Motorola Solutions
+Direction: 115
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7692481,44.802376,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14055449301
+Manufacturer: Motorola Solutions
+Direction: 165
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.7675587,44.8031137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14079515901
+Manufacturer: Flock Safety
+Direction: 262
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-68.440187,44.5391987,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14090373602
+Manufacturer: Flock Safety
+Direction: 246
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-69.8013122,43.9172961,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14090374501
+Manufacturer: Flock Safety
+Direction: 192
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-69.8021169,43.9176576,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14090376601
+Manufacturer: Flock Safety
+Direction: 236
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-69.8014274,43.9144883,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14090376602
+Manufacturer: Flock Safety
+Direction: 151
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-69.8011761,43.9122952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14091896161
+Direction: 140</description>
+      <Point>
+        <coordinates>-68.7671265,44.8018991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14091916909
+Direction: 325</description>
+      <Point>
+        <coordinates>-68.7614127,44.7971537,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
