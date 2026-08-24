@@ -40,8 +40,8 @@ See [`examples/`](examples/) for real output from `--state` runs, one
 subfolder per state (Alabama, Alaska, Arizona, Arkansas, California, Colorado,
 Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana,
 Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan,
-Minnesota, Mississippi, Missouri, Montana, Oklahoma) -- including the
-automatic split into multiple files by the 2,000-per-layer rule described
+Minnesota, Mississippi, Missouri, Montana, Nebraska, Oklahoma) -- including
+the automatic split into multiple files by the 2,000-per-layer rule described
 below (California alone splits into 11 files at 20,197 nodes).
 
 ## Why per-state, not one national query
