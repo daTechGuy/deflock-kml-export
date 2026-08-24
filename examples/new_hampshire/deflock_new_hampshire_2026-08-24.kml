@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DeFlock ALPR Cameras -- New Hampshire (2026-08-24)</name>
+    <description>Source: OpenStreetMap (surveillance:type=ALPR), same data DeFlock.me displays. ODbL licensed -- see https://www.openstreetmap.org/copyright</description>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/60434388
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 355;175
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.473617,43.0851792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/60435343
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 355;175
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4737755,43.0851603,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/195157879
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 320;140
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.9648921,43.274932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/885709933
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 10;190
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8564139,42.9624622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/885709940
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 10;190
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8562471,42.9624432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/2271645880
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 320;140
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.9647568,43.2750224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/2271827725
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 340;160
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8421831,43.1382877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023737
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 35
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8607464,42.9642842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023738
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 35
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8607887,42.9643301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023739
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 35
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.860824,42.9643683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023740
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 35
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.86086,42.9644074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023741
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 210
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8604947,42.9642953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023742
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 210
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8605305,42.964334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023743
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 210
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8604528,42.9642499,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098023744
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 210
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8605665,42.964373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175972
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 350
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8564869,42.962613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175973
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 350
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.85655,42.9626197,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175974
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 350
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8566215,42.9626273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175975
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 350
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8567033,42.9626361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175976
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 350
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8567769,42.9626439,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175977
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 350
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8568572,42.9626525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175978
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 170
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8558707,42.9627045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175979
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 170
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8557961,42.9626966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175980
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 170
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8559485,42.9627128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175981
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 170
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8560245,42.9627209,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175982
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 170
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8557205,42.9626885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/8098175983
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 170
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8560859,42.9627275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/11224218838
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 340;160
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.8419611,43.1383406,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809703
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4655246,42.9149351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809704
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4654475,42.9149423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809705
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4653724,42.9149509,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809706
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4652943,42.914954,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809707
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4652324,42.9149597,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809708
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4651719,42.9149663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809709
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 150
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4651374,42.9151303,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809710
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 150
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4650769,42.915136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809711
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 150
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4650146,42.9151425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809712
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 150
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4649491,42.9151487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809713
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 150
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4648757,42.9151569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809714
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 150
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4647986,42.9151629,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809715
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4742728,43.085255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809716
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4741872,43.0852622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809717
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4741248,43.0852699,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809718
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4740497,43.0852803,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809719
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4739746,43.0852891,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809720
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 335
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4739129,43.0852962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809721
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 155
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4735805,43.0854966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809722
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 155
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4735221,43.0855057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809723
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 155
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4734459,43.0855151,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809724
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 155
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4733682,43.085523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809725
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 155
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4733077,43.0855312,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Bureau of Turnpikes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12929809726
+Operator: New Hampshire Bureau of Turnpikes
+Direction: 155
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.473233,43.0855409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brook Casino ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13924089002
+Operator: Brook Casino
+Manufacturer: Flock Safety
+Direction: 162
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.9014176,42.8976313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13924089401
+Manufacturer: Flock Safety
+Direction: 329
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.9013157,42.8975889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brook Casino ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13924095301
+Operator: Brook Casino
+Manufacturer: Flock Safety
+Direction: 66
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-70.9016768,42.8976756,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dartmouth College Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14023314201
+Operator: Dartmouth College Police
+Manufacturer: Genetec
+Direction: 115
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.2897479,43.7009756,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dartmouth College Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14023325601
+Operator: Dartmouth College Police
+Manufacturer: Genetec
+Direction: 211
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.2892482,43.7025643,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dartmouth College Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14023399201
+Operator: Dartmouth College Police
+Manufacturer: Genetec
+Direction: 102
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.2899321,43.7035838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14055403701
+Manufacturer: Flock Safety
+Direction: 353
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.1050812,42.8285628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14085859602
+Manufacturer: Flock Safety
+Direction: 284;60
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4509837,42.7515335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14085859702
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4631835,42.7579109,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hampshire Department of Corrections ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14085956203
+Operator: New Hampshire Department of Corrections
+Manufacturer: Flock Safety
+Direction: 260
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.5557392,43.2262486,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14108517401
+Manufacturer: Flock Safety
+Direction: 175
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.3583665,43.4036219,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14110292202
+Direction: 149
+Zone: traffic
+Camera type: mobile</description>
+      <Point>
+        <coordinates>-71.4465659,42.963985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14113534401
+Manufacturer: Flock Safety
+Direction: 0;70;140;210;279;321
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-71.4332465,42.9570729,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
