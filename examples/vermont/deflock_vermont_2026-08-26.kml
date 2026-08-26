@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DeFlock ALPR Cameras -- Vermont (2026-08-26)</name>
+    <description>Source: OpenStreetMap (surveillance:type=ALPR), same data DeFlock.me displays. ODbL licensed -- see https://www.openstreetmap.org/copyright</description>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/12583293866</description>
+      <Point>
+        <coordinates>-72.5722287,42.8736634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manchester Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13253114066
+Operator: Manchester Police Department
+Manufacturer: Flock Safety
+Direction: 150
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.0577831,43.1804874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manchester Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13269514657
+Operator: Manchester Police Department
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.0720974,43.1623904,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manchester Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13320246448
+Operator: Manchester Police Department
+Manufacturer: Flock Safety
+Direction: 280
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.048436,43.1731783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manchester Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13320246449
+Operator: Manchester Police Department
+Manufacturer: Flock Safety
+Direction: 220
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.0574289,43.176585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13328290731
+Operator: Lowes
+Manufacturer: Flock Safety
+Direction: 200
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.2130796,44.4416294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vermont State Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13423732804
+Operator: Vermont State Police
+Manufacturer: Genetec
+Direction: 280
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.3459707,43.6139752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vermont State Police ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13423732805
+Operator: Vermont State Police
+Manufacturer: Genetec
+Direction: 100
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.3461495,43.6139316,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13440554101
+Operator: Lowes
+Manufacturer: Flock Safety
+Direction: 186
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.2139627,44.4417575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13465144387
+Operator: Lowes
+Manufacturer: Flock Safety
+Direction: 5
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.2131209,44.4403572,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manchester Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13565724483
+Operator: Manchester Police Department
+Manufacturer: Flock Safety
+Direction: 200
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.0481716,43.1791566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burlington Subaru (probably) ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13578256301
+Operator: Burlington Subaru (probably)
+Manufacturer: Flock Safety
+Direction: 17
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.2096967,44.4552271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burlington Subaru (likely) ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13758664801
+Operator: Burlington Subaru (likely)
+Manufacturer: Flock Safety
+Direction: 233
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.2086413,44.4558214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burlington Hyundai (likely) ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13758666001
+Operator: Burlington Hyundai (likely)
+Manufacturer: Flock Safety
+Direction: 275
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.2085683,44.4563907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>US Department of Veterans Affairs ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13840216780
+Operator: US Department of Veterans Affairs
+Manufacturer: Genetec
+Direction: 300
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.3443538,43.6466853,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>US Department of Veterans Affairs ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13840294156
+Operator: US Department of Veterans Affairs
+Manufacturer: Genetec
+Direction: 320
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.3417709,43.6457737,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>US Department of Veterans Affairs ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13840340151
+Operator: US Department of Veterans Affairs
+Manufacturer: Genetec
+Direction: 110
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.3451359,43.651314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>US Department of Veterans Affairs ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13840449906
+Operator: US Department of Veterans Affairs
+Manufacturer: Genetec
+Direction: 130
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.3447519,43.6493425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13877143601
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.214065,44.4403629,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13945548901
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 339
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.137583,44.5055403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13945548902
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 334
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.1375549,44.505354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowes ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13945592201
+Operator: Lowes
+Manufacturer: Flock Safety
+Direction: 267
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.1366113,44.5059248,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/13952223001
+Manufacturer: Flock Safety
+Direction: 35
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.1793773,44.4193402,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14005005801
+Manufacturer: Flock Safety
+Direction: 359
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.2043225,42.8951655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14014037701
+Manufacturer: Axis Communications
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.4954891,43.3536693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14014040201
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-72.4955213,43.3533572,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14090173601
+Manufacturer: Flock Safety
+Direction: 359;290;70;140;220;182
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-73.1839526,44.46259,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
