@@ -36,17 +36,10 @@ Options:
 Each run writes a KML file named like `deflock_ca_2026-08-22.kml` into the
 output directory.
 
-See [`examples/`](examples/) for real output from `--state` runs, one
-subfolder per state (Alabama, Alaska, Arizona, Arkansas, California, Colorado,
-Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana,
-Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan,
-Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire,
-New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio,
-Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota,
-Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
-Wisconsin, Wyoming) -- including the automatic split into multiple files by
-the 2,000-per-layer rule described below (California splits into 11 files at
-20,197 nodes; Texas into 9 files at 16,382 nodes).
+See [`examples/`](examples/) for real output from every one of the 50 states
+plus DC, one subfolder each -- including the automatic split into multiple
+files by the 2,000-per-layer rule described below (California splits into 11
+files at 20,197 nodes; Texas into 9 files at 16,382 nodes).
 
 ## Why per-state, not one national query
 
