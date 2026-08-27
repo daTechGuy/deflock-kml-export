@@ -44,8 +44,8 @@ Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire,
 New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio,
 Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota,
 Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
-Wisconsin) -- including the automatic split into multiple files by the
-2,000-per-layer rule described below (California splits into 11 files at
+Wisconsin, Wyoming) -- including the automatic split into multiple files by
+the 2,000-per-layer rule described below (California splits into 11 files at
 20,197 nodes; Texas into 9 files at 16,382 nodes).
 
 ## Why per-state, not one national query
