@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DeFlock ALPR Cameras -- Illinois (2026-10-04) -- part 5 of 5</name>
+    <description>Source: OpenStreetMap (surveillance:type=ALPR), same data DeFlock.me displays. ODbL licensed -- see https://www.openstreetmap.org/copyright</description>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14215755564
+Manufacturer: Flock Safety
+Direction: 180
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.6129118,39.727099,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flock Safety ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14215903350
+Operator: Flock Safety
+Direction: 255
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.6016137,39.8020816,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of Chicago Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14216052130
+Operator: University of Chicago Police Department
+Manufacturer: Genetec
+Direction: 225;125
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.6026261,41.7841896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of Chicago Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14216052133
+Operator: University of Chicago Police Department
+Manufacturer: Genetec
+Direction: 300;45
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.6045832,41.7857726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of Chicago Police Department ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14216052134
+Operator: University of Chicago Police Department
+Manufacturer: Genetec
+Direction: 300
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.6054842,41.7857656,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14216149402
+Manufacturer: Flock Safety
+Direction: 144
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.8385908,41.7427957,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14216351001
+Manufacturer: Flock Safety
+Direction: 331
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.3011998,41.3446279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14216487903
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 30
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.9858478,38.5914413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14217077101
+Manufacturer: Flock Safety
+Direction: 187
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.7712121,41.8471068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14217590601
+Manufacturer: Flock Safety
+Direction: 236
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.1184954,41.4783886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14217625401
+Manufacturer: Flock Safety
+Direction: 217
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.1662516,41.54765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14219563933
+Manufacturer: Flock Safety
+Direction: 255
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.7681639,42.0984174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14219876303
+Manufacturer: Genetec
+Direction: 333
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-90.1568897,38.8924838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14219880601
+Manufacturer: Genetec
+Direction: 258
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-90.1568643,38.8924868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14219880801
+Manufacturer: Genetec
+Direction: 41
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-90.1568897,38.8924838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14219893901
+Manufacturer: Flock Safety
+Direction: 114
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.8337334,42.2324681,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14220094001
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0867112,42.2511071,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14220143302
+Manufacturer: Flock Safety
+Direction: 0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.1159219,42.2704137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14220262201
+Manufacturer: Motorola Solutions
+Direction: 266
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.6645636,41.9216275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14220512601
+Manufacturer: Flock Safety
+Direction: 60
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.6339333,41.5495197,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14220519001
+Manufacturer: Flock Safety
+Direction: 99
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.5851387,41.5342003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14220802101
+Manufacturer: Flock Safety
+Direction: 182
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.1234836,41.6937902,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14224704701
+Manufacturer: Flock Safety
+Direction: 260
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0959532,42.2617546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14224705701
+Manufacturer: Flock Safety
+Direction: 89
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0960959,42.2615001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14224708201
+Manufacturer: Flock Safety
+Direction: 74
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.1161367,42.2665134,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14225652701
+Manufacturer: Flock Safety
+Direction: 130
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.054448,42.2866689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14228095701
+Manufacturer: Flock Safety
+Direction: 44
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.8017775,41.7917657,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14228636401
+Manufacturer: Motorola Solutions
+Direction: 70;0;143
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.9024743,38.3158826,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14231948601
+Manufacturer: Flock Safety
+Direction: 321
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.8854074,41.7463472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14232385401
+Manufacturer: Flock Safety
+Direction: 330
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0720653,42.2236549,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14232391402
+Manufacturer: Flock Safety
+Direction: 242
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0731916,42.2235282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14233087601
+Manufacturer: Flock Safety
+Direction: 208;0
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.2625897,41.7318264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riverside IL PD ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14233412793
+Operator: Riverside IL PD
+Manufacturer: Flock Safety
+Direction: 240
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.8033532,41.8317431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14235506903
+Manufacturer: Flock Safety
+Direction: 45
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.8855575,42.2909009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14239574001
+Manufacturer: Flock Safety
+Direction: 225
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.6520526,39.5900052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14239616601
+Manufacturer: Flock Safety
+Direction: 270
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.6464011,39.5900292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14239617801
+Manufacturer: Flock Safety
+Direction: 86
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.6466906,39.5899039,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241025201
+Manufacturer: Axis Communications
+Direction: 111
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.3380155,37.7643001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241025202
+Manufacturer: Motorola Solutions
+Direction: 179
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.3437208,37.7643829,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241025701
+Manufacturer: Axis Communications
+Direction: 18
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.3380155,37.7643001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241025801
+Manufacturer: Axis Communications
+Direction: 268
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.3380155,37.7643001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241029601
+Manufacturer: Motorola Solutions
+Direction: 113
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.3437208,37.7643829,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241030401
+Manufacturer: Motorola Solutions
+Direction: 254
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.3437208,37.7643829,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241097155
+Manufacturer: Flock Safety
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.6441616,41.7507724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14241106949
+Manufacturer: Flock Safety
+Direction: 15
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.625674,41.7361279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14242606301
+Manufacturer: Motorola Solutions
+Direction: 181
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.7479282,41.972869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14242608801
+Manufacturer: Motorola Solutions
+Direction: 124
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.74788,41.972859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14244154901
+Manufacturer: Flock Safety
+Direction: 185
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-87.7159847,41.4844888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14244285601
+Manufacturer: Flock Safety
+Direction: 313
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.2466008,37.7318069,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14244285701
+Manufacturer: Flock Safety
+Direction: 138
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.246629,37.7320728,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14244285801
+Manufacturer: Flock Safety
+Direction: 209
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.246537,37.7320757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14246251901
+Manufacturer: Flock Safety
+Direction: 200
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0668827,42.2884315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14246252001
+Manufacturer: Flock Safety
+Direction: 236
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0669269,42.288796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14246252002
+Manufacturer: Flock Safety
+Direction: 61
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-89.0665469,42.2885671,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14246332701
+Manufacturer: Flock Safety
+Direction: 157
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.9546179,39.8549189,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14247049301
+Manufacturer: Flock Safety
+Direction: 276
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.7850326,41.3433958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14248939001
+Manufacturer: Motorola Solutions
+Direction: 181
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-90.1655428,39.0057482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14248948603
+Manufacturer: Flock Safety
+Direction: 49
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-88.997364,42.2383766,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

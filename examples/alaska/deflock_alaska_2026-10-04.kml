@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DeFlock ALPR Cameras -- Alaska (2026-10-04)</name>
+    <description>Source: OpenStreetMap (surveillance:type=ALPR), same data DeFlock.me displays. ODbL licensed -- see https://www.openstreetmap.org/copyright</description>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14158086453
+Manufacturer: Genetec
+Direction: 55
+Zone: parking
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-134.4038708,58.2984104,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14158086454
+Manufacturer: Genetec
+Direction: 230
+Zone: parking
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-134.403844,58.2983869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14158088298
+Manufacturer: Genetec
+Direction: 50
+Zone: parking
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-134.4090764,58.300625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14158863486
+Manufacturer: Genetec
+Direction: 160
+Zone: parking
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-134.408447,58.300091,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14158863487
+Manufacturer: Genetec
+Direction: 215
+Zone: parking
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-134.4089513,58.3003071,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14229585101
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 139;61;225
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.8760793,61.1824656,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14229589601
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 83;273
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.8763263,61.1815021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14229592401
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 14;213
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.8801267,61.1810964,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14229595501
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 339;186
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.8799603,61.1822993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14237672701
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 21;148
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.7458625,61.2307929,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14237677103
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 54
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.7440672,61.2291158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14237677301
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 50
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.7440461,61.229683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lowe's ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14237677801
+Operator: Lowe's
+Manufacturer: Flock Safety
+Direction: 308
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.7455158,61.2292108,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALPR</name>
+      <description>OSM node: https://www.openstreetmap.org/node/14246968050
+Manufacturer: Flock Safety
+Direction: 320
+Zone: traffic
+Camera type: fixed</description>
+      <Point>
+        <coordinates>-149.3898105,61.5719971,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

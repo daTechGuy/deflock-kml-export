@@ -43,7 +43,7 @@ from xml.sax.saxutils import escape as xml_escape
 # programming -- confirmed by hitting exactly these failures live.
 OVERPASS_MIRRORS = [
     "https://overpass-api.de/api/interpreter",
-    "https://overpass.kumi.systems/api/interpreter",
+    "https://overpass.private.coffee/api/interpreter",
 ]
 REQUEST_TIMEOUT_SECONDS = 180
 RETRIES_PER_MIRROR = 3
@@ -78,9 +78,10 @@ def run_overpass_query(query: str, label: str) -> dict:
                     last_error = "response had no 'elements' field"
             except urllib.error.HTTPError as e:
                 last_error = f"HTTP {e.code}"
-                if e.code == 429:
-                    # Rate limited -- give the server a real break, not just
-                    # a token retry, before hitting it again.
+                if e.code in (429, 502, 503, 504):
+                    # Rate limited or server busy / gateway timeout -- give the server a real break,
+                    # not just a token retry, before hitting it again.
+                    print(f"  [{label}] attempt {attempt} via {mirror} hit {last_error}, backing off...", file=sys.stderr)
                     time.sleep(RETRY_BACKOFF_SECONDS * 2)
                     continue
             except (urllib.error.URLError, TimeoutError, json.JSONDecodeError,
@@ -133,7 +134,7 @@ def resolve_state_code(user_input: str) -> str:
     s = user_input.strip()
     if s.upper() in US_STATE_CODES:
         return s.upper()
-    key = s.lower()
+    key = s.lower().replace("_", " ")
     if key in US_STATES:
         return US_STATES[key]
     raise ValueError(
@@ -166,7 +167,7 @@ def list_states() -> str:
 def fetch_state_nodes(state_code: str) -> list:
     """Fetch every surveillance:type=ALPR node inside one US state's boundary."""
     query = (
-        "[out:json][timeout:150][maxsize:1073741824];"
+        "[out:json][timeout:150];"
         f'area["ISO3166-2"="US-{state_code}"]["admin_level"="4"]->.searchArea;'
         'node["surveillance:type"="ALPR"](area.searchArea);'
         "out body;"

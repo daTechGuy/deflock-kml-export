@@ -39,7 +39,7 @@ output directory.
 See [`examples/`](examples/) for real output from every one of the 50 states
 plus DC, one subfolder each -- including the automatic split into multiple
 files by the 2,000-per-layer rule described below (California splits into 11
-files at 20,197 nodes; Texas into 9 files at 16,382 nodes).
+files at 21,181 nodes; Texas into 9 files at 17,303 nodes).
 
 ## Why per-state, not one national query
 
